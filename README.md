@@ -37,7 +37,7 @@ java Hangman
 
 ## 📷 Capturi de ecran
 <p align="center">
-  <img src="capturi_de_ecran.png" width="400"/>
+  <img src="Capturi_de_ecran.png" width="400"/>
 </p>
 
 ## 💡 Ce am învățat
