@@ -36,7 +36,7 @@ java Hangman
 > **Cerințe:** Java 16 sau mai nou instalat pe sistem.
 
 ## 📷 Capturi de ecran
-<img src="capturi_de_ecran.png" width="400"/>
+<img src="Capturi_de_ecran.png" width="400"/>
 
 ## 💡 Ce am învățat
 - **Java Swing & GUI**: Am construit o interfață grafică completă folosind `JFrame`, `JPanel`, `JButton` și layout managers (`BorderLayout`, `BoxLayout`, `GridLayout`) pentru a organiza componentele vizual.
